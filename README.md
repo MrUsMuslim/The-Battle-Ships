@@ -1,4 +1,4 @@
 # The-Battle-Ships
-# The battle ships game.
-# You can get more information about this game in wikipedia.
-# https://de.wikipedia.org/wiki/Schiffe_versenken
+<br/>The battle ships game.
+<br/>You can get more information about this game in wikipedia.
+<br/>https://de.wikipedia.org/wiki/Schiffe_versenken
