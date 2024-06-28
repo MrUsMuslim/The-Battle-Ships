@@ -13,19 +13,19 @@ letters_coordinate: Dict[str, int] = {
 }
 
 ships: Dict[str, Dict[str, int]] = {
-    'titanic': {
+    'battleship': {
         'length': 5,
         'number_of_ships': 1
     },
-    'large': {
+    'kreuzer': {
         'length': 4,
         'number_of_ships': 2
     },
-    'standard': {
+    'destroyers': {
         'length': 3,
         'number_of_ships': 3
     },
-    'small': {
+    'submarines': {
         'length': 2,
         'number_of_ships': 3
     },
